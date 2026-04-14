@@ -234,7 +234,7 @@ input[type="submit"]:hover {
 
 .lista-centrada a, 
 .lista-centrada a:visited {
-    color: var(--accent-light); /* Usa tu color cian claro */
+    color: var(--accent-light);
     text-decoration: none;
     transition: color 0.3s ease;
 }
